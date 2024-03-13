@@ -7,4 +7,7 @@ user can ask chatbotv of browser  to click pic, take screenshot,open apps,downlo
 create images using dalle and much more...
 
 
+created using python and mySQL
+
+
 
